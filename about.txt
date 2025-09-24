@@ -1,0 +1,3 @@
+Name : R.Sruthi
+Course : BSC-Computer Science
+Github is used to store the projects.
